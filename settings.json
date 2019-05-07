@@ -1,0 +1,34 @@
+{
+    //ident
+    "editor.detectIndentation": true,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    //Quick open files permanetly
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    //Breadcrumbs
+    "breadcrumbs.enabled": true,
+    //Hide open editors on the left panel
+    "explorer.openEditors.visible": 0,
+    //Cooler title
+    "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
+    //Minimap
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.maxColumn": 200,
+    "editor.minimap.showSlider": "always",
+    //Whitespaces and newlines
+    "editor.renderWhitespace": "all",
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    //Scrooling
+    "editor.smoothScrolling": true,
+    //cursor
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": true,
+    //disable report data
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    //disable natural lang search
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    //bye bye smiley
+    "workbench.statusBar.feedback.visible": false,
+}
